@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T23:56:27.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="RQ0_3WJRJCbo-idP4vwz" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-27T00:15:04.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0O_5tVH4C_9V7sSQRk8I" version="14.5.1" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1460" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" background="none" math="0" shadow="1">
       <root>
@@ -89,6 +89,265 @@
         </mxCell>
         <mxCell id="HICihGH0wUobHjoNpLKp-24" value="Consultora Firma recibido, se registra punto de entrega GPS, se cierra la entrega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="471" width="232" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4JRjmtRCW-CoVKjt6x9V" name="Page-2">
+    <mxGraphModel dx="1703" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+      <root>
+        <mxCell id="i9eupB8hSpAiSA93j-8Z-0" />
+        <mxCell id="i9eupB8hSpAiSA93j-8Z-1" parent="i9eupB8hSpAiSA93j-8Z-0" />
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-0" value="HOB Logístico&#xa;Panama Pacifico" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="120" y="80" width="100" height="563" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-1" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="I6SzuEF3H6VoaaoRf4hG-0">
+          <mxGeometry x="45" y="70" width="10" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-2" value="Punto de &#xa;Distribución intermedia" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="591" y="75.5" width="140" height="648" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="I6SzuEF3H6VoaaoRf4hG-2">
+          <mxGeometry x="69" y="227" width="10" height="421" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-4" value="Consultora" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="886" y="71" width="100" height="651" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-5" value="Aplicacion Liberr" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="358" y="80" width="100" height="568" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="I6SzuEF3H6VoaaoRf4hG-5">
+          <mxGeometry x="45" y="70" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-7" value="HOB, solicita vehiculo distribucion para consolidar entregar por zonas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="178" y="136" width="212" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-8" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1" source="I6SzuEF3H6VoaaoRf4hG-7" target="I6SzuEF3H6VoaaoRf4hG-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="225" as="sourcePoint" />
+            <mxPoint x="531" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-9" value="Liberr envia vehiculo para distribucion para consolidar entregar por zonas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="182.5" y="223" width="212" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-10" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1" target="I6SzuEF3H6VoaaoRf4hG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183" y="388" as="sourcePoint" />
+            <mxPoint x="395" y="388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-11" value="Vehiculo Liberr recoge mercancia, firma consolidado, inicia sistema de seguimiento GPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="192" y="338" width="193" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-12" value="Responsable punto de distribución firma consolidado, recibe mercancía" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="422" y="334" width="215" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-13" value="Responsable centro distribucion solicita vehiculo para entrega a consultora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="419" y="407" width="206" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-14" value="" style="endArrow=classic;html=1;entryX=1.133;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="656.1700000000001" y="452.0039999999999" as="sourcePoint" />
+            <mxPoint x="425.0000000000002" y="452.0039999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-15" value="" style="endArrow=classic;html=1;entryX=1.133;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.08000000000015" y="293.28399999999976" as="sourcePoint" />
+            <mxPoint x="172.9100000000003" y="293.28399999999976" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-16" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426.4999999999998" y="545.29" as="sourcePoint" />
+            <mxPoint x="638.5" y="545.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-18" value="Liberr envia vehiculo para rocoger mercancia para despacho a consultora, firma consolidado, inicia sistema de seguimiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="426.5" y="465" width="206" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-19" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="931" y="439" width="10" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-20" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="683.0000000000002" y="545.29" as="sourcePoint" />
+            <mxPoint x="917" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-21" value="Consultora no disponible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="690" y="471" width="232" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-22" value="Liber envia mercancia de nuevo al punto de distribucion intermedia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="693.8299999999999" y="562" width="206" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-23" value="" style="endArrow=classic;html=1;entryX=1.133;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="931" y="607.0039999999999" as="sourcePoint" />
+            <mxPoint x="699.8300000000002" y="607.0039999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-24" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435.4999999999998" y="699.29" as="sourcePoint" />
+            <mxPoint x="647.5" y="699.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-25" value="Liberr envia vehiculo para rocoger mercancia para despacho a consultora, firma consolidado, inicia sistema de seguimiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="435.5" y="619" width="206" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-26" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="692" y="699.29" as="sourcePoint" />
+            <mxPoint x="926" y="699" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6SzuEF3H6VoaaoRf4hG-27" value="Consultora Firma recibido, se registra punto de entrega GPS, se cierra la entrega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i9eupB8hSpAiSA93j-8Z-1">
+          <mxGeometry x="699" y="625" width="232" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UwFZwDi6KSiZXWQpGGn8" name="Page-3">
+    <mxGraphModel dx="1703" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+      <root>
+        <mxCell id="yDBd3SAv-KgZJZ0VTRJX-0" />
+        <mxCell id="yDBd3SAv-KgZJZ0VTRJX-1" parent="yDBd3SAv-KgZJZ0VTRJX-0" />
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-0" value="HOB Logístico&#xa;Panama Pacifico" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="120" y="80" width="100" height="563" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-1" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="8ZmP8yMYhCtJA35njd_r-0">
+          <mxGeometry x="45" y="70" width="10" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-2" value="Punto de &#xa;Distribución intermedia" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="591" y="75.5" width="140" height="766.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="8ZmP8yMYhCtJA35njd_r-2">
+          <mxGeometry x="66" y="227" width="10" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="C7NXpYq8HRFE55js4nuH-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="8ZmP8yMYhCtJA35njd_r-2">
+          <mxGeometry x="66" y="656.5" width="10" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-4" value="Consultora" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="886" y="71" width="100" height="651" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-5" value="Aplicacion Liberr" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="358" y="80" width="100" height="689" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="8ZmP8yMYhCtJA35njd_r-5">
+          <mxGeometry x="45" y="70" width="10" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-7" value="HOB, solicita vehiculo distribucion para consolidar entregar por zonas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="178" y="136" width="212" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-8" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1" source="8ZmP8yMYhCtJA35njd_r-7" target="8ZmP8yMYhCtJA35njd_r-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="225" as="sourcePoint" />
+            <mxPoint x="531" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-9" value="Liberr envia vehiculo para distribucion para consolidar entregar por zonas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="182.5" y="223" width="212" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-10" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1" target="8ZmP8yMYhCtJA35njd_r-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183" y="388.0000000000001" as="sourcePoint" />
+            <mxPoint x="395" y="388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-11" value="Vehiculo Liberr recoge mercancia, firma consolidado, inicia sistema de seguimiento GPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="192" y="338" width="193" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-12" value="Responsable punto de distribución firma consolidado, recibe mercancía" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="422" y="334" width="215" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-13" value="Responsable centro distribucion solicita vehiculo para entrega a consultora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="419" y="407" width="206" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-14" value="" style="endArrow=classic;html=1;entryX=1.133;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="656.1700000000001" y="452.0039999999999" as="sourcePoint" />
+            <mxPoint x="425" y="452.0039999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-15" value="" style="endArrow=classic;html=1;entryX=1.133;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.0799999999999" y="293.2839999999999" as="sourcePoint" />
+            <mxPoint x="172.91000000000008" y="293.2839999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-16" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426.5" y="545.29" as="sourcePoint" />
+            <mxPoint x="638.5" y="545.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-17" value="Liberr envia vehiculo para rocoger mercancia para despacho a consultora, firma consolidado, inicia sistema de seguimiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="426.5" y="465" width="206" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="931" y="439" width="10" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-19" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="683" y="545.29" as="sourcePoint" />
+            <mxPoint x="917" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-21" value="Consultora reporta mercancia defectuosa o equivocada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="693.8299999999999" y="562" width="206" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-22" value="" style="endArrow=classic;html=1;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="931" y="607.0039999999999" as="sourcePoint" />
+            <mxPoint x="190" y="607" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-23" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="706" as="sourcePoint" />
+            <mxPoint x="397" y="706" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-24" value="HOB reporta recogida de mercancía defectuosa o equivocada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="179" y="643" width="206" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-25" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1" target="8ZmP8yMYhCtJA35njd_r-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426.5" y="709.29" as="sourcePoint" />
+            <mxPoint x="660.5" y="709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-26" value="Consultora Firma recibido, se registra punto de entrega GPS, se cierra la entrega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="689" y="472" width="232" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-27" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="168" y="569" width="10" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-29" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="403" y="676" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZmP8yMYhCtJA35njd_r-30" value="Liberr envia vehiculo para recoger mercancia defectuosa o equivocada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="431" y="639" width="206" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="C7NXpYq8HRFE55js4nuH-0" value="Liber envia mercancia de nuevo al punto de distribucion intermedia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="678.2499999999999" y="732" width="206" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="C7NXpYq8HRFE55js4nuH-1" value="" style="endArrow=classic;html=1;entryX=1.133;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="915.42" y="777.0039999999999" as="sourcePoint" />
+            <mxPoint x="684.2499999999999" y="777.0039999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7NXpYq8HRFE55js4nuH-3" value="Liber envia mercancia de nuevo al HOB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yDBd3SAv-KgZJZ0VTRJX-1">
+          <mxGeometry x="434.9999999999999" y="769" width="206" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="C7NXpYq8HRFE55js4nuH-4" value="" style="endArrow=classic;html=1;" edge="1" parent="yDBd3SAv-KgZJZ0VTRJX-1" target="8ZmP8yMYhCtJA35njd_r-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648.0900000000001" y="811.0039999999999" as="sourcePoint" />
+            <mxPoint x="416.92" y="811.0039999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
